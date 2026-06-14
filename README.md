@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HUKA-Taro
-- 👀 I’m interested in Web 3 and Photography
-- 🌱 I’m currently learning Blockchain
+- 👀 I’m interested in Photography
+- 🌱 I’m currently doing CP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mebrotrust5@gmail.com
-- 😄 Pronouns: ...
+- 📫 How to reach me harshillutsavka@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
